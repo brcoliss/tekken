@@ -165,7 +165,7 @@ cursor: pointer;
 .modal h2 {
   text-align: center;
   color: white;
-  margin-top: -1050px;
+  margin-top: -1060px;
   margin-left: 490px;
   font-style: italic;
   font-size: 70px;
@@ -177,26 +177,27 @@ cursor: pointer;
   text-align: center;
   color: white;
   margin-top: 39px;
-  margin-left: 273px;
+  margin-left: 405px;
   font-style: italic;
-  font-size: 30px;
+  font-size: 45px;
   font-family: "Titulo";
 }
 
 .seta-um {
-  width: 4%;
+  width: 3%;
   position: absolute;
-  top: 246px;
-  right: 469px;
+  top: 255px;
+  right: 440px;
 }
 
 .seta-dois{
-  width: 6%;
+  width: 4%;
   position: absolute;
   top: 160px;
   left: 940px;
 
 }
+
 
 
 
